@@ -1,0 +1,23 @@
+
+
+#image1 {
+    color: blue;
+}
+
+
+.imagename {
+   font-size: medium;
+   font-weight: bold;
+   color: blue;
+   text-align: center;
+   
+  
+}
+
+#topic{ 
+    font-size: larger;
+    font-weight: bolder;
+    color: brown;
+    text-align: center;
+    margin-top: 10px;
+}
